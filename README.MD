@@ -7,8 +7,11 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/FVitor7/Django-Covid19-in-Real-Time?style=for-the-badge)
 
 
-> Preview do projeto online.
+
 ![Alt Text](https://github.com/FVitor7/Django-Covid19-in-Real-Time/raw/main/README_FILES/gif_01.gif)
+
+> Preview do projeto online.
+
 
 ---
 

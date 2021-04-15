@@ -11,6 +11,7 @@
 ![Alt Text](https://github.com/FVitor7/Django-Covid19-in-Real-Time/raw/main/README_FILES/gif_01.gif)
 
 > Preview do projeto online.
+> https://covid19django.herokuapp.com/
 
 
 ---

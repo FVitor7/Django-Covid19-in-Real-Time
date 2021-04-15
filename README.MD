@@ -28,6 +28,8 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente do `<Python3">`
 * Você tem uma máquina `<Windows / Linux / Mac>`.
 * Crie um ambiente virtual.
+* Obtenha a x-rapidapi-key de sua API no link https://rapidapi.com/api-sports/api/covid-193
+* Crie um arquivo .env no diretório do clone e insira a variável RAPID_API_KEY com o valor do x-rapidapi-key
 * Instale todas as dependências do `"requirements.txt"`.
 
 ```
